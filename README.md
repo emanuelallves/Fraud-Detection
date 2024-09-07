@@ -20,7 +20,7 @@ O modelo preditivo foi avaliado em duas fases:
 
 Primeiro Teste do Modelo:
 
-Acurácia: 1.00
+Acurácia: 1.00<br>
 Recall Score: 0.59
 Precision Score: 0.75
 F1-Score: 0.66
