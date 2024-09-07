@@ -21,16 +21,17 @@ O modelo preditivo foi avaliado em duas fases:
 Primeiro Teste do Modelo:
 
 Acurácia: 1.00<br>
-Recall Score: 0.59
-Precision Score: 0.75
-F1-Score: 0.66
-Roc-Auc-Score: 0.79
+Recall Score: 0.59<br>
+Precision Score: 0.75<br>
+F1-Score: 0.66<br>
+Roc-Auc-Score: 0.79<br>
 
 Após Ajuste dos Parâmetros:
 
-Acurácia: 0.77
-Recall Score: 0.98
-Precision Score: 0.02
-F1-Score: 0.05
-Roc-Auc-Score: 0.87
+Acurácia: 0.77<br>
+Recall Score: 0.98<br>
+Precision Score: 0.02<br>
+F1-Score: 0.05<br>
+Roc-Auc-Score: 0.87<br>
+
 Os ajustes de parâmetros melhoraram significativamente o Recall Score e o Roc-Auc-Score, indicando uma melhoria na capacidade do modelo de identificar fraudes, embora a precisão tenha diminuído.
